@@ -157,7 +157,7 @@ public interface BaseWalletManager {
     //get the currency symbol e.g. Bitcoin - ₿, Ether - Ξ
     String getSymbol(Context app);
 
-    //get the currency denomination e.g. Bitcoin - BTC, Ether - ETH
+    //get the currency denomination e.g. Bitcoin - BTC, Ether - ETH 货币种类
     String getIso();
 
     //get the currency scheme (bitcoin or bitcoincash)

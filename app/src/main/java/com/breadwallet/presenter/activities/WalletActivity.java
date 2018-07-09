@@ -60,6 +60,7 @@ import java.text.SimpleDateFormat;
  * Created by byfieldj on 1/16/18.
  * <p>
  * <p>
+ * BTC BCH ETH钱包详情
  * This activity will display pricing and transaction information for any currency the user has access to
  * (BTC, BCH, ETH)
  */

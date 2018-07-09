@@ -25,6 +25,9 @@ import com.platform.tools.KVStoreManager;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 系统设置界面
+ */
 public class SettingsActivity extends BaseSettingsActivity {
     private static final String TAG = SettingsActivity.class.getName();
     private ListView listView;
